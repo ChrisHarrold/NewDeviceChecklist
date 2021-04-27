@@ -17,5 +17,29 @@ C.R.A.P. model.
     - Are you measuring more than one thing at the same time with this device?
         - Do you need to?
         - Do you have other devices capturing the same data nearby?
-        - Is that data critical to this devices' function?
+        - Is that data critical to this devices' function or could you "share" that information?
+    - How much detail do you need?
+        - Do you need to know if a thing happened?
+        - Do you need to know if a thing exists?
+        - Do you need to know how much/little of a thing there is?
+        - Do you need high precision or general measurements?
+- How often are you going to want measurements?
+    - Do you need realtime data collection?
+    - Is infrequent updating acceptable?
+- What is depending on the measurement?
+    - Will this device be required to keep something alive?
+        - Is it a human?
+        - Is it an animal?
+    - Will this device prevent property damage?
+    - Is this information that would be considered helpful but not critical?
+- Is this intended for use by anyone but you?
+    - How will you display the data?
+    - Who else needs to be able to understand the data?
+    - Do you need a dshboard, or just simple text?
+- Does the device itself need a display?
+    - Will it be someplace that you cannot get to easily?
+    - Will it be someplace that an onboard display is more convenient to observe?
+    - Do others need to be able to observe it?
+
+
 
